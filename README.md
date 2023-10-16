@@ -1,7 +1,5 @@
 # Hi 👋 Welcome 
 ![Beomsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbs1027&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimbeomsoo1027)](https://solved.ac/kimbeomsoo1027/)
-
 ## 💪Skills
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
