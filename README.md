@@ -33,7 +33,7 @@
 ## Work Experience
 
 ### [Pathfinder](https://www.pathfinder.camp/) · Intern
-- 2024년 1월 - present
+- 2024년 1월 - 2024년 3월 · 2개월
 - 대한민국 부산 · 대면근무
 
 ### [부산대학교](https://pnu-viplab.github.io/) · Research Assistant
