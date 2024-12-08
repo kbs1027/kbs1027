@@ -32,6 +32,10 @@
 
 ## Work Experience
 
+### [Sellmate](https://sellmate.io/) · Backend Engineer
+- 2024년 12월 - 진행중
+- 대한민국 서울 · 대면근무
+
 ### [Pathfinder](https://www.pathfinder.camp/) · Intern
 - 2024년 1월 - 2024년 3월 · 2개월
 - 대한민국 부산 · 대면근무
